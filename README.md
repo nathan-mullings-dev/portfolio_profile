@@ -14,11 +14,12 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a Digital Skill
 ### Skills
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/mysql.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Pandas" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Tableau" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_images/blob/main/Power-BI.svg" width="36" height="36" alt="Power BI" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Excel" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/pandas%20(python).svg" width="36" height="36" alt="Pandas" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/Tableau.svg" width="36" height="36" alt="Tableau" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/Power-BI.svg" width="36" height="36" alt="Power BI" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/ms%20excel.svg" width="36" height="36" alt="Excel" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/microsoft%20azure.svg" width="36" height="36" alt="Microsoft Azure" /></a>
   </p>
 
 ### Socials
