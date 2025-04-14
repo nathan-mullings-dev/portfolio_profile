@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Technican/Analyst
 ----------------------
 
-Aspiring Data Technician/Analyst focused on turning data into practical insights and continually growing in the tech space.
+I’m an aspiring Data Technician making the move from stock control in retail to the world of data. I’m currently wrapping up a Digital Skills Bootcamp where I’ve been learning SQL, Python, Excel, R, Tableau, Power BI, and Azure, and building hands-on projects along the way. I’m all about turning raw data into useful insights and love finding practical ways to make things work better. Always learning, always curious—and excited to grow in the data space!
 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [iamnathanm@gmail.com](mailto:iamnathanm@gmail.com)
