@@ -20,7 +20,7 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a Digital Skill
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_images/blob/main/Power-BI.svg" width="36" height="36" alt="Power BI" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Excel" /></a>
                     </p>
-### Socials
+# Socials
 <p align="left"> <a href="https://www.github.com/nathan-mullings-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-mullings-a62589184/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <b>My GitHub Stats</b>
                   
