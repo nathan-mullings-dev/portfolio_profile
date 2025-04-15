@@ -8,7 +8,7 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a Digital Skill
 
 *   🌍  I'm based in London, UK
 *   ✉️  You can contact me at [iamnathanm@gmail.com](mailto:iamnathanm@gmail.com)
-*   🤝  I'm open to collaborating on new and interesting projects.
+*   🤝  I'm open to collaborating projects focused on social good.
 *   ⚡  I love grapes 🍇
 
 ### Skills
