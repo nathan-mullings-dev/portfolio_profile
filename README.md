@@ -10,7 +10,7 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills
 *   ✉️  You can contact me at [here.](mailto:iamnathanm@gmail.com)
 *   🤝  I'm open to collaborating on data-driven projects, especially those in the Charity, Nonprofit, Government, Healthcare (NHS) and Education sectors.
 
-### Skills
+### Skills 
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/mysql.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -24,12 +24,13 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills
 ### 📫 Let's Connect
 <p align="left"> <a href="https://www.github.com/nathan-mullings-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-mullings-a62589184/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-**My portfolio demonstrates my developing and growing skill sets in**:
+### My portfolio showcases the development and growth of my skill set in:
   
-  - **SQL**: Querying, data manipulation, and database management across multiple relational databases.
-  - **Python**: Data analysis, automation, and creating visualizations using libraries like Pandas, Matplotlib, and Seaborn for insightful reporting.
-  - **Excel**: Sata cleaning, analysis, and creating dynamic visualizations with pivot tables, advanced formulas, and charts.
-  - **Tableau**: Building interactive dashboards and visualizations to explore and communicate data insights effectively.
-  - **Power BI**: Developing business intelligence reports and dashboards to support data-driven decision-making with advanced features.
-  - **Azure**: Cloud computing, data storage, and utilizing Azure’s data services for scalable analysis and reporting solutions.
+  - **SQL** 🗄️: Querying, data manipulation, and database management across multiple relational databases.
+  - **Python** 🐍: Data analysis, automation, and creating visualizations using libraries like Pandas, Matplotlib, and Seaborn for insightful reporting.
+  - **Excel** 📊: Data cleaning, analysis, and creating dynamic visualizations with pivot tables, advanced formulas, and charts.
+  - **Tableau** 📈: Building interactive dashboards and visualizations to explore and communicate data insights effectively.
+  - **Power BI** 📉: Developing business intelligence reports and dashboards to support data-driven decision-making with advanced features.
+  - **Azure** ☁️: Accessing cloud computing, data storage, and utilizing Azure’s data services for scalable analysis and reporting solutions.
+
 
