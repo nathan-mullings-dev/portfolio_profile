@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Technican/Analyst
 ----------------------
 
-I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills Bootcamp** with **Just IT** where I’ve been developing and growing my skill set in SQL, Python, Excel, Tableau, Power BI, and Azure, and building hands-on projects along the way. I’m all about turning raw data into useful insights and love finding practical ways to make things work better. Always learning, always curious—and excited to grow in the data space! Please check out my repositories to see my work!
+I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills Bootcamp** with **Just IT** where I’ve been developing and growing my skill set in SQL, Python, Excel, Tableau, Power BI, and Azure, and building hands-on projects along the way. I’m all about turning raw data into useful insights and love finding practical ways to make things work better. Always learning, always curious—and excited to grow in the data space! Please check out my [repositories](https://github.com/nathan-mullings-dev?tab=repositories) to see my work!
 
 *   🌍  I'm based in London, UK
 *   🖥️  See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/nathan.mullings/vizzes)
