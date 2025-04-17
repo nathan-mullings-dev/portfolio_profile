@@ -25,7 +25,7 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills
 ### 📫 Let's Connect
 <p align="left"> <a href="https://www.github.com/nathan-mullings-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-mullings-a62589184/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### 📚 My portfolio showcases the development and growth of my skill set in:
+### 📚 My portfolio showcases the development and growth of my skill sets in:
   
   - **SQL** 🗄️: Querying, data manipulation, and database management across multiple relational databases.
   - **Python** 🐍: Data analysis, automation, and creating visualizations using libraries like Pandas, Matplotlib, and Seaborn for insightful reporting.
